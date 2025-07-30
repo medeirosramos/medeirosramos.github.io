@@ -1,6 +1,6 @@
-# Pagina Pessoal
+### Página Pessoal
 
-### Projetos
+###### Projetos
 
 pendente organizar projetos...
 
