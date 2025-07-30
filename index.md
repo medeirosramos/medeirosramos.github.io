@@ -1,2 +1,3 @@
 Teste Ok
-{% include meu-bloco.md %}
+
+{% include rodape.md %}
