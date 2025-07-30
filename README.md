@@ -1,6 +1,3 @@
-# medeirosramos.github.io
-Projetos Pessoais
-
-
+# Pagina Pessoal
 
 {% include rodape.md %}
